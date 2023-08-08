@@ -1,6 +1,7 @@
 /**
  * author www.dojs.com
- * do service like vue.js
+ * github: www.github.com/chengse66/ref
+ * ref like vue.js
  */
 class RefObject extends EventTarget{
   constructor() {
